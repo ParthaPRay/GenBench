@@ -1,5 +1,5 @@
 # GenBench
-An benchmark pf codes for evaluating debugging skills of generative AI tools like ChatGPT, Google Bard.
+It is a BenchMark created by Partha Pratim Ray consisting of 100 code snippets for evaluating the debugging skill of generative AI tools like ChatGPT, Google Bard.
 
 The GenBench consists of total 20 programming langauges having 5 code snippets for each. Thus, 100 code snippets are present in GenBench code set. 
 
